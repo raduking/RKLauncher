@@ -1,0 +1,35 @@
+; this is just a brief help for some of the options 
+; that are not very clear
+
+[RKDock.ini]
+
+minimizePosition:
+negative values will be counted from right to left -1 being the last element -2 one before the last, etc.
+
+
+[itemlist.ini]
+
+name:
+name of the item that will appear above the item on mouseover
+
+icon:
+relative path to the item's icon
+
+type:
+type of the item, can be: shortcut, separator
+
+link:
+executable path
+
+arguments:
+argument list for the application
+
+workFolder:
+work folder of the application
+
+show:
+the way the item will be shown, can be: normal, excluded
+
+sameInstance:
+can be 1 if you want the dock to open only one instance of the application, 0 otherwise
+default is 0
