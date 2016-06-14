@@ -8,7 +8,8 @@ Requirements
            Might work on Windows XP/2000 (Not tested).
 
 Copyright
-
+
+
     The author (RaduKing) owns the full copyright to RK Launcher.
 
     I choose to allow the use of RK Launcher but only under the assumption that 
@@ -17,7 +18,6 @@ Copyright
     approval from the owner (RaduKing) must be obtained.
 
     Default Icon set created by Philipp Antoni
-    Visit http://pantoni.icadex.com/ for Icons, Themes, Wallpapers and more
 
     You are not allowed to distribute the included icons in any modified
     form or without RK Launcher
