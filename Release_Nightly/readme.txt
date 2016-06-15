@@ -1,4 +1,4 @@
-RK Launcher 0.5 Beta
+RK Launcher 0.5 Beta - Nightly Build
 
 Requirements
 
