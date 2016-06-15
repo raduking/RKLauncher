@@ -35,7 +35,7 @@ Contact:
 
 Note:
 
-    since this is a nightly build some of the features may not work or are disabled
+    since this is a beta software some of the features may not work or are disabled
 
 ---------------------------------------
 What's new in version 0.5 Beta:
