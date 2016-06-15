@@ -13,17 +13,21 @@ Copyright
     The author (RaduKing) owns the full copyright to RK Launcher.
 
     I choose to allow the use of RK Launcher but only under the assumption that 
-    the contents of this archive are not changed or altered in any way, and it's 
-    contents are intact. For any reproduction, distribution, etc... written 
-    approval from the owner (RaduKing) must be obtained.
+    the contents of this folder/archive are not changed or altered in any way,
+    and it's contents are intact. For any reproduction, distribution, etc...
+    Written approval from the owner (RaduKing) must be obtained.
 
-    Default Icon set created by Philipp Antoni
+    Default Icon set created by Philipp Antoni.
 
     You are not allowed to distribute the included icons in any modified
-    form or without RK Launcher
+    form or without RK Launcher.
 
     The author assumes no responsibility, or gives any sort of guarantees for
     damages that may occur from using this software.
+    
+    The software is distributed without warranty.
+    
+    Copyright (c) RaduKing 2016
 
 Download:
 
@@ -35,7 +39,7 @@ Contact:
 
 Note:
 
-    since this is a beta software some of the features may not work or are disabled
+    Since this is a beta software some of the features may not work or are disabled.
 
 ---------------------------------------
 What's new in version 0.5 Beta:
